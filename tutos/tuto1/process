@@ -1,0 +1,4 @@
+to visualize the network
+
+$ python /path/to/caffe/python/draw_net.py myconvnet.prototxt myconvnet.png
+
